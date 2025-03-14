@@ -1,0 +1,18 @@
+Fri Mar 14 16:53:19 +05 2025
+data.txt
+data2.txt
+filetest-one.txt
+first-subfolder
+git.log
+git.txt
+githubfile.txt
+hello.php
+hello.txt
+nine-file.txt
+second-subfolder
+some-file-1.txt
+some-file-2.txt
+some-file-3.txt
+some-file.txt
+src
+tmp
